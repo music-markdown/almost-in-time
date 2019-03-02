@@ -33,7 +33,7 @@ c1:            Am        G  F     G               Esus4  E
 v1: California dreamin'        on such a winter's day
 ```
 
-Violin Solo:
+## Violin Solo
 ```abc
 X: 1
 M: 4/4
