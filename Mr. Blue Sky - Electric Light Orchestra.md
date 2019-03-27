@@ -147,6 +147,7 @@ l1: Look around see what you do,
 
 c1: Eb                   Bb     C 
 l1: Everybody smiles at you.
+l2: (Synth)
 
 c1: F            Em7 A7 Dm G Em A7 Bb   C F C
 l1: Mr Blue Sky. Mr. Blue Sky, Mr Blue Skyyy
