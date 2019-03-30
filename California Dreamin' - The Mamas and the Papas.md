@@ -43,9 +43,12 @@ X: 1
 M: 4/4
 L: 1/16
 K: Amin
-"Am" (C16 | C4) B,2C2 D6 CB, | (C16 | C4) B,2C2 "F" D6 CA, | "C" G,8 "E" _A,8 | "Am" =A,8 "F" (3F4 F4 F4 | "E" F2 (E6 E8) |
-z6 ^A2 B4 e4 | "Am" e2d2c2(d2 "G" d4) .=A4 | "F" e2d2c2(d2 "G" d4) .A4 | "Esus4" e4 e4 e2d2B2d2 | "E" e4 e4 e2g2e2d2 |
-"Am" .e4 c2 "G" .d4 c2 e4 | "F" z2 c2 e2 "G" d6 c2d2 | "Esus4" e2e2e2d2 d2B2B2_A2 | "E" _A2F2F2E2 =A2B2A2G2 |
+"Am" (C16 | C4) B,2C2 D6 CB, | (C16 | C4) B,2C2 "F" D6 CA, | 
+"C" G,8 "E" _A,8 | "Am" =A,8 "F" (3F4 F4 F4 | "E" F2 (E6 E8) | z6 ^A2 B4 e4 | 
+"Am" e2d2c2(d2 "G" d4) .=A4 | "F" e2d2c2(d2 "G" d4) .A4 | 
+"Esus4" e4 e4 e2d2B2d2 | "E" e4 e4 e2g2e2d2 | 
+"Am" .e4 c2 "G" .d4 c2 e4 | "F" z2 c2 e2 "G" d6 c2d2 | 
+"Esus4" e2e2e2d2 d2B2B2_A2 | "E" _A2F2F2E2 =A2B2A2G2 |
 ```
 
 ## Verse 3
