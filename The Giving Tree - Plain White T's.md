@@ -1,21 +1,17 @@
 ---
+capo: 1
 ---
 
 # The Giving Tree - Plain White T's
-
-Capo 1st Fret
 
 Am - intro and verse (577555) (except for bridge where a regular Am is played)
 
 
 ## Intro
-
-Em (pickie 3rd) G Am G Bm7
+c1: Em G Am G Bm7
 
 
 ## Verse
-
-```chords
 c1: Em                                     G
 l1: All the leaves on the Giving Tree have fallen
 
@@ -27,11 +23,8 @@ l1: I've got scars from a pocket knife
 
 c1:       G               Am         G    D
 l1: Where you carved your heart into me
-```
 
 ## Chorus
-
-```chords
 c1:            C          G
 l1: If all you wanted was love
 
@@ -46,11 +39,8 @@ l1: When all I wanted to be was your giving tree
 
 c1: Em7    C             D                  G
 l1: Settle down, build a home, and make you happy?
-```
 
 ## Verse 2
-
-```chords
 c1: Em                               G
 l1: I lie in the dead of night and I wonder
 
@@ -62,11 +52,8 @@ l1: And it's sad laying in his bed
 
 c1:          G              Am                  G    D
 l1: You feel hollow, so you crawl home back to me
-```
 
 ## Chorus
-
-```chords
 c1:            C          G
 l1: If all you wanted was love
 
@@ -81,11 +68,8 @@ l1: When all I wanted to be was your giving tree
 
 c1: Em7    C             D                  G
 l1: Settle down, build a home, and make you happy?
-```
 
 ## Bridge
-
-```chords
 c1: Am
 l1: Well, I see a trail that starts
 
@@ -100,19 +84,18 @@ l1: The once sad and lonely fool
 
 c1: C                              D     Dsus4 D
 l1: With nothing left but roots to show, oh oh
-```
 
 ## Chorus
 
 (Single strum per chord)
 
-```chords
 c1:            C          G
 l1: If all you wanted was love
 
 c1:               D      G
 l1: Why would you use me up
-l2: (Resume regular strumming)
+
+(Resume regular strumming)
 
 c1:        C     D                      G     G7
 l1: Cut me down, build a boat, and sail away
@@ -122,8 +105,8 @@ l1: When all I wanted to be was your giving tree
 
 c1: Em7    C             D                  G
 l1: Settle down, build a home, and make you happy?
-l2: (Single Strum per chord)
+
+(Single Strum per chord)
 
 c1:        C             D                  G
 l1: Settle down, build a home, and make you happy?
-```
