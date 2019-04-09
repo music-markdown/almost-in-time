@@ -35,9 +35,9 @@ l1: Then she'll be a true love of mine
 l2:                               Sleeps unaware of the clarion call
 
 ## Verse 2
-c1: Em                      D         Em
-l1: Tell her to find me an  acre of   land
-l2:                  On the side of a hill, a sprinkling of leaves
+c1: Em                         D         Em
+l1: Tell her to find me an     acre of   land
+l2:                     On the side of a hill, a sprinkling of leaves
 
 c1: G        Em        G A       Em
 l1: Parsley, sage, rosemary, and thyme
