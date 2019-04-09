@@ -18,9 +18,9 @@ c1: Em       D                  Em
 l1: She once was a true love of mine
 
 ## Verse 1
-c1: Em                    D         Em
-l1: Tell her to make me a cambric   shirt
-l2:               On the  side of a hill in the deep forest green
+c1: Em                         D         Em
+l1: Tell her to make me a      cambric   shirt
+l2:                     On the side of a hill in the deep forest green
 
 c1: G        Em        G A       Em
 l1: Parsley, sage, rosemary, and thyme
