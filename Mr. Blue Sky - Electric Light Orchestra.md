@@ -1,6 +1,5 @@
 ## Verse 1
 
-```chords
 c1:  F
 l1: Sun is shinin' in the sky,
 
@@ -33,11 +32,9 @@ l1: Where once was pity,
 
 c1:   Bb               C         F      C
 l1: Mr. Blue Sky is living here today.  Hey, Hey
-```
 
 ## Chorus
 
-```chords
 c1: Dm        C                  Bb
 l1: Mr. Blue Sky, please tell us why,
 
@@ -55,11 +52,9 @@ l1: You had to hide away
 
 c1:     Gm      F               Eb          Bb C
 l1: For so long       where did we go wrong.
-```
 
 ## Solo
 
-```chords
 c1:    F                                      Em7    A7       Dm
 l1: e|---------------------------------------------10---------|
 l2: B|-------10-11-10h11p10----------------------------13-----|
@@ -91,11 +86,9 @@ l3: G|---------12-10- This bit harmonises  |-------------|
 l4: D|--------------- with this            |-------------|
 l5: A|---------------                      |-------------|
 l6: E|---------------                      |-------------|
-```
 
 ## Verse 2
 
-```chords
 c1: F
 l1: Hey you with the pretty face,
 
@@ -110,11 +103,9 @@ l1: Up there waitin' and today
 
 c1:         C                F   C
 l1: Is the day we've waited for  Ah, Ah
-```
 
 ## Chorus 2
 
-```chords
 c1: Dm        C                  Bb
 l1: Mr. Blue Sky, please tell us why,
 
@@ -151,11 +142,9 @@ l2: (Synth)
 
 c1: F            Em7 A7 Dm G Em A7 Bb   C F C
 l1: Mr Blue Sky. Mr. Blue Sky, Mr Blue Skyyy
-```
 
 ## Bridge
 
-```chords
 c1:  F          
 l1: Mr. Blue you did it right,
 
@@ -173,11 +162,9 @@ l1: Never mind I'll remember you this
 
 c1:             Eb        Dm
 l1: I'll remember you this way.
-```
 
 ## Chorus 3
 
-```chords
 c1: Dm        C                  Bb
 l1: Mr. Blue Sky, please tell us why,
 
@@ -198,11 +185,8 @@ l1: Look around see what you do, (Blue)
 
 c1: Eb         Bb          
 l1: Everybody smiles at you.
-```
 
 ## Outro
 
-```chords
 c1: Dm  C  Bb  Am  Gm  F  Eb  Bb
 l1: Dm  C  Bb  Am  Gm  F          Eb   Bb  F(hold)
-```
