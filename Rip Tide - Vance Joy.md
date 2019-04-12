@@ -4,7 +4,8 @@ youTubeId: uJ_1HMAGb4k
 
 # Rip Tide - Vance Joy
 
-Intro: (Ukulele)
+## Intro: (Ukulele)
+
 Am           G                   C (x2)
 
 ## Verse 1: (Ukulele, Hihat)
