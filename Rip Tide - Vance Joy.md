@@ -7,7 +7,7 @@ youTubeId: uJ_1HMAGb4k
 Intro: (Ukulele)
 Am           G                   C (x2)
 
-Verse 1: (Ukulele, Hihat)
+## Verse 1: (Ukulele, Hihat)
 
 c1: Am                    G                       C
 l1: I was scared of dentists and the dark,
@@ -46,7 +46,7 @@ l1: I got a lump in my throat 'cause
 
 c1: G                            C
 l1: you're gonna sing the words wrong
-l2: Verse 2: (No Bells)
+## Verse 2: (No Bells)
 
 c1: Am                         G                       C
 l1: There's this movie that I think you'll like,
@@ -65,7 +65,9 @@ l1: And she's been living on the highest shelf
 
 ## Ukulele Solo
 
-Bridge: (All, Bells, Rushing)
+## Bridge 
+(All, Bells, Rushing)
+
 c1: Am                                   G
 l1: I just wanna, I just wanna know,
 
