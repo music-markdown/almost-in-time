@@ -45,7 +45,7 @@ l2:                              Washes the grave with silvery tears
 
 c1: Em               G                 D
 l1: Between the salt water and the sea strands
-l2:                                    A soldier cleans and polishes a gun
+l2:                        A   soldier cleans and polishes a gun
 
 c1: Em          D                 Em
 l1: Then she'll be a true love of mine
