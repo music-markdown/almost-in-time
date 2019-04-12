@@ -8,12 +8,13 @@ Intro: (Ukulele)
 Am           G                   C (x2)
 
 Verse 1: (Ukulele, Hihat)
+
 c1: Am                    G                       C
 l1: I was scared of dentists and the dark,
 
 c1: Am                    G                       C
 l1: I was scared of pretty girls and starting conversations,
-l2: (Enter Bass & Kick)
+(Enter Bass & Kick)
 
 c1: Am                    G                       C
 l1: Oh all my friends are turning green,
@@ -75,15 +76,15 @@ c1: Am                                   G
 l1: I just gotta, I just gotta know,
 l2: C                                                F (strum and hold)
 l3: I can't have it, I can't have it any other way
-l4: Strum once and hold: (Bass, Kick, Bells on down beat)
+ Strum once and hold: (Bass, Kick, Bells on down beat)
 
 c1: Am                  G                     C
 l1: I swear she's destined for the screen,
 
 c1: Am                      G                           C
 l1: Closest thing to Michelle Pfeiffer that you've ever seen, oh
-l2: [Chorus] x1 (Ukulele, Hihat + Bells, +Kick 2nd half)
-l3: [Chorus] x2 (All + Ooo)
+ [Chorus] x1 (Ukulele, Hihat + Bells, +Kick 2nd half)
+ [Chorus] x2 (All + Ooo)
 
 c1: C                           Am                G                                C
 l1: I got a lump in my throat 'cause you're gonna sing the words wrong.
