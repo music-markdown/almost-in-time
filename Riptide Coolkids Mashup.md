@@ -6,9 +6,6 @@ youTubeId: JtBwyzURqzs
 
 Capo on 2
 
-## Intro
-c1: Em   C   G
-
 ## Chorus
 c1: Em    C                   G
 l1: Lady, running down to the riptide,
@@ -19,7 +16,7 @@ l1: taken away to the dark side,
 c1: C                    G
 l1: I wanna be your left hand man.
 
-## VERSE 1
+## Verse 1
 c1:               Em                                     C          G
 l1: She sees them walking in a straight line, that's not really her style
 
@@ -35,8 +32,9 @@ l1: Yeah they're invincible and she's just in the background
 ## Pre-chorus
 c1: Em   C   G
 l1: Ooh, ooh ooh
+
 l2: Em  C         R
-l3: Ooh, and they come unstuck
+l1: Ooh, and they come unstuck
 
 ## Chorus
 c1: Em    C                   G
@@ -57,7 +55,7 @@ l1: I got a lump in my throat 'cause
 c1: C                           G
 l1: you're gonna sing the words wrong
 
-## Verse 1
+## Verse 2
 c1: Em              C                G
 l1: I was scared of dentists and the dark,
 
@@ -66,9 +64,11 @@ l1: I was scared of pretty girls and starting conversations,
 
 c1:    Em     C                   G
 l1: Oh all my friends are turning green,
+
 l2:            Em        C                  R
-l3: You're the magicians assistant in their dreams.
-l4: CHORUS x2
+l1: You're the magicians assistant in their dreams.
+
+## Chorus x2
 
 c1: Em                C
 l1: I wish that I could be like the cool kids
