@@ -39,8 +39,9 @@ c1: D   C#m  Bm
 l1: But now I'm
 
 ## Verse 2
-A               (E A E)  D
-Look at the night        and it don't seem so lonely
+c1: A                 E A E  D
+l1: Look at the night        and it don't seem so lonely
+
 c1: A                       E
 l1: We fill it up with only two
 
@@ -58,10 +59,12 @@ c1: E                                  E
 l1: Reachin out touching me touching you
 
 ## Chorus
-A        D   (D C# F#)        E
-Sweet Caroline          Good times never seemed so good
-A         D    (D C# F#)                        E
-I'd be inclined          to believe there never would
+c1: A        D     D C# F#        E
+l1: Sweet Caroline          Good times never seemed so good
+
+c1: A         D     D C# F#                        E
+l1: I'd be inclined          to believe there never would
+
 c1: D   C#m  Bm
 l1: Oh no no
 
@@ -77,9 +80,11 @@ c1: E   D       E
 l1: Reaching out touching me  touching you
 
 ## Chorus
-A         D    (D C# F#)                          E
-Sweet Caroline         Good times never seemed so good
-A          D   (D C# F#)                      E
-I'd be inclined        to believe there never would
+c1: A        D     D C# F#        E
+l1: Sweet Caroline          Good times never seemed so good
+
+c1: A         D     D C# F#                        E
+l1: I'd be inclined          to believe there never would
+
 c1: D   C#m  Bm  A
 l1: Oh no no
