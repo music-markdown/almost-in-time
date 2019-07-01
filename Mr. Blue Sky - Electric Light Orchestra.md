@@ -1,97 +1,75 @@
+---
+youTubeId: s7dTBoW5H9k
+---
+
 ## Verse 1
-c1:  F
+c1: F
 l1: Sun is shinin' in the sky,
 
-c1:                Em7  A7  Dm
+c1:               Em7   A7 Dm
 l1: There ain't a cloud in sight
 
-c1:                G
+c1:              G
 l1: It's stopped rainin'
 
-c1:       Em          A7
+c1:      Em          A7
 l1: Everybody's in a play
 
-c1:                Bb
+c1:               Bb
 l1: And don't you know
 
-c1:  C                     F        C
+c1:        C             F        C
 l1: It's a beautiful new day, hey hey
 
 c1: F
-l1: Runnin' down the avenue, (*Panting*)
+l1: Runnin' down the avenue, 
+l2:                          (*Panting*)
 
-c1:               Em7  A7   Dm
+c1:             Em7 A7     Dm
 l1: See how the sun shines brightly
 
-c1:            G          Em
+c1:        G           Em
 l1: In the city on the streets
 
-c1:                 A7
+c1:                A7
 l1: Where once was pity,
 
-c1:   Bb               C         F      C
-l1: Mr. Blue Sky is living here today.  Hey, Hey
+c1:     Bb          C             F         C
+l1: Mr. Blue Sky is living here today. Hey, Hey
 
 ## Chorus
-c1: Dm        C                  Bb
-l1: Mr. Blue Sky, please tell us why,
+c1: Dm       C                   Bb
+l2: Mr. Blue Sky
+l3: Mr. Blue Sky, please tell us why,
+l4:               please tell us why,
+
+c1:            Am
+l1: You had to hide away
+
+c1:     Gm      F                 Eb          Bb 
+l1: For so long         where did we go wrong.
+l2:             so long
+
+c1: Dm       C                   Bb
+l2: Mr. Blue Sky
+l3: Mr. Blue Sky, please tell us why,
+l4:               please tell us why,
 
 c1:             Am
 l1: You had to hide away
 
-c1:     Gm      F               Eb          Bb 
-l1: For so long       where did we go wrong.
+c1:     Gm      F                 Eb          Bb C
+l1: For so long         where did we go wrong.
+l2:             so long
 
-c1: Dm        C                  Bb
-l1: Mr. Blue Sky, please tell us why,
-
-c1:             Am
-l1: You had to hide away
-
-c1:     Gm      F               Eb          Bb C
-l1: For so long       where did we go wrong.
-
-## Solo
-```tab
-   F                                      Em7    A7       Dm
-e|---------------------------------------------10---------|
-B|-------10-11-10h11p10----------------------------13-----|
-G|----10------------------12b14-r12-10--12b14----------10-|
-D|-10-----------------------------------------------------|
-A|--------------------------------------------------------|
-E|--------------------------------------------------------|
-
-                 G                Em                     A7
-e|---------------------------------------------------|
-B|---------------------------------------------------|
-G|-12b14--12b14--12b14r12-10------10-12b14-----10-12-|
-D|----------------------------/12-----------12-------|
-A|---------------------------------------------------|
-E|---------------------------------------------------|
-
-   Bb                       C                F  
-e|--------------------------------------------------------|
-B|--------------------------------------10b11r10----10----|
-G|-12-10-12 12b14---12b14r12 10---10-12----------12-------|
-D|--------------------------------------------------------|
-A|--------------------------------------------------------|
-E|--------------------------------------------------------|
-
-   C
-e|---------------                      |-pb10r8-6-5--|
-B|-pb11r10-------                      |-------------|
-G|---------12-10- This bit harmonises  |-------------|
-D|--------------- with this            |-------------|
-A|---------------                      |-------------|
-E|---------------                      |-------------|
-```
+## Guitar Solo
 
 ## Verse 2
 c1: F
 l1: Hey you with the pretty face,
 
-c1: Em7         A7       Dm
-l1: Welcome to the human race
+c1:                Em7 A7  Dm
+l1: Welcome to the hu  man race
 
 c1: G                    Em
 l1: A celebration Mr. Blue Sky's
