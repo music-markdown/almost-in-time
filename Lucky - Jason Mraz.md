@@ -100,8 +100,8 @@ l1: You'll hear the music, fill the air
 c1:            Dm     G
 l3: I'll put a flower in your hair
 
-c1:                C               Am
-l2: And though the breezes through trees
+c1:                C                   Am
+l2: And though the breezes through the trees
 
 c1:         Dm                   G
 l2: Move so pretty, you're all I see
