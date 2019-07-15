@@ -50,15 +50,15 @@ l3: Oooohhooohhohhooohh
 ## Bridge
 
 c1: Dm                    Am
-l1: They don't know how   long it  takes
-l2:            They don't know how long  it takes
+l2: They don't know how   long it  takes
+l1:            They don't know how long  it takes
 
 c1: G             Am
 l3: Waiting for a love like this
 
 c1: Dm               Am
-l1: Every time  we   say goodbye
-l2:       Every time we  say goodbye
+l2: Every time  we   say goodbye
+l1:       Every time we  say goodbye
 
 c1: G             Am
 l3: I wish we had one more kiss
