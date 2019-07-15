@@ -22,67 +22,69 @@ c1:   Dm             G
 l1: Oh my, baby I'm trying
 
 c1:       C              Am
-l1: Boy I hear you in my dreams
+l2: Boy I hear you in my dreams
 
 c1:             Dm                G
-l1: I feel you whisper across the sea
+l2: I feel you whisper across the sea
 
 c1:            Em            Am
-l1: I keep you with me in my heart
+l2: I keep you with me in my heart
 
 c1:               Dm        G                  Am
-l1: You make it easier when life gets hard
+l2: You make it easier when life gets hard
 
 ## Chorus
 
 c1: Am        Dm                   G
-l1: Lucky I'm in love with my best friend
+l3: Lucky I'm in love with my best friend
 
 c1:                 C               Am
-l1: Lucky to have been where I have been
+l3: Lucky to have been where I have been
 
 c1: Am        Dm                   G
-l1: Lucky to be coming home again
+l3: Lucky to be coming home again
 
 c1: C         Am              G
-l1: Oooohhooohhohhooohh
+l3: Oooohhooohhohhooohh
 
 ## Bridge
 
-c1: Dm                  Am
-l1: They don't know how long it takes
+c1: Dm                    Am
+l1: They don't know how   long it  takes
+l2:            They don't know how long  it takes
 
 c1: G             Am
-l1: Waiting for a love like this
+l3: Waiting for a love like this
 
-c1: Dm            Am
-l1: Every time we say goodbye
+c1: Dm               Am
+l1: Every time  we   say goodbye
+l2:       Every time we  say goodbye
 
 c1: G             Am
-l1: I wish we had one more kiss
+l3: I wish we had one more kiss
 
 c1: Dm            Am                    G Am Dm            G
-l1: I'll wait for you I'll promise you, I will            (I'm)
+l3: I'll wait for you I'll promise you, I will            (I'm)
 
 ## Chorus
 
 c1: Am        Dm                   G
-l1: Lucky I'm in love with my best friend
+l3: Lucky I'm in love with my best friend
 
 c1:                 C               Am
-l1: Lucky to have been where I have been
+l3: Lucky to have been where I have been
 
 c1:             Dm                   G
-l1: Lucky to be coming home again
+l3: Lucky to be coming home again
 
 c1:       Am              Dm               G
-l1: We're lucky we're in love every way
+l3: We're lucky we're in love every way
 
 c1:               C                    Am
-l1: Lucky to have stayed where we have stayed
+l3: Lucky to have stayed where we have stayed
 
 c1:             Dm          G
-l1: Lucky to be coming home someday
+l3: Lucky to be coming home someday
 
 ## Verse
 
@@ -90,50 +92,50 @@ c1:            C               Am
 l1: And so I'm sailing through the sea
 
 c1:       Dm                 G
-l1: To an island where we'll meet
+l3: To an island where we'll meet
 
 c1:                 Em              Am
 l1: You'll hear the music, fill the air
 
 c1:            Dm     G
-l1: I'll put a flower in your hair
+l3: I'll put a flower in your hair
 
 c1:                C               Am
-l1: And though the breezes through trees
+l2: And though the breezes through trees
 
 c1:         Dm                   G
-l1: Move so pretty, you're all I see
+l2: Move so pretty, you're all I see
 
 c1:        Em                   Am
-l1: As the world keeps spinning round
+l2: As the world keeps spinning round
 
 c1:     Dm              G               Am
-l1: You hold me right here, right now
+l2: You hold me right here, right now
 
 ## Chorus
 
 c1: Am        Dm                   G
-l1: Lucky I'm in love with my best friend
+l3: Lucky I'm in love with my best friend
 
 c1:                 C               Am
-l1: Lucky to have been where I have been
+l3: Lucky to have been where I have been
 
 c1:             Dm                   G
-l1: Lucky to be coming home again
+l3: Lucky to be coming home again
 
 c1:       Am              Dm               G
-l1: We're lucky we're in love every way
+l3: We're lucky we're in love every way
 
 c1:               C                    Am
-l1: Lucky to have stayed where we have stayed
+l3: Lucky to have stayed where we have stayed
 
 c1:             Dm          G
-l1: Lucky to be coming home someday
+l3: Lucky to be coming home someday
 
 ## Outro
 
 c1: C          Am        G
-l1: Ooohh oooh oooh oooh oooooh
+l3: Ooohh oooh oooh oooh oooooh
 
 c1: C          Am        G      Dm  G   C
-l1: Ooooh oooh oooh oooh oooooh ooh ooh ooh
+l3: Ooooh oooh oooh oooh oooooh ooh ooh ooh
