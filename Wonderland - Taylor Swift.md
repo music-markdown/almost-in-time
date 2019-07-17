@@ -1,23 +1,12 @@
 ---
-youtubeId: Oq4nEzEiegA
+youTubeId: Oq4nEzEiegA
 ---
 
 # Wonderland - Taylor Swift
 
-Wonderland by Taylor Swift
-Album: 1989
-Track 14
-2014
 
 Standard Tuning
 Capo on the 3rd fret
-
-## Chords
-
-C       x32010
-Am      x02210
-F       x33211 or 133211
-G       320003 or 320033
 
  
 ## Intro
