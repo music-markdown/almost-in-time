@@ -16,7 +16,7 @@ K: Gm
 w: | * * * Hey!
 :::
 
-## Verse
+## Verse 1
 
 c1: Gm
 l1: Nine hours passed and how long will it last
@@ -60,7 +60,7 @@ l1: like a vain full of rain to the heeeeaaaaarts that should fight.
 
 ### Repeat the Intro solo, but don't take the repeat!
 
-## Verse
+## Verse 2
 
 c1: Gm
 l1: Mary's like me she's a loser to be
