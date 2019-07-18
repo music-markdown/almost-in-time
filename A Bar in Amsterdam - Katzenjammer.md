@@ -10,7 +10,7 @@ youTubeId: -kbdCDeKSoI
 M: 4/4
 L: 1/16
 K: Gm
-"Gm" |: .d.d.d.d d2cB c2d2 G4 |      .d.d.d.d d2cB c2d2 g4 |
+|: "Gm" .d.d.d.d d2cB c2d2 G4 |      .d.d.d.d d2cB c2d2 g4 |
 "Eb" .d.d.d.d d2cB c2d2 G4 | "Bb" .d.d.d.d d2cB c2d2 !trill(! g4 :|
 "Eb" f4 e4 "Bb" d4 c4 | "F" B4 A4 !trill)! "Gm" G4 g4|
 w: | * * * Hey!
@@ -58,15 +58,7 @@ l1: like a vain full of rain to the heeeeaaaaarts that should fight.
 
 ## Interlude
 
-:::abc
-M: 4/4
-L: 1/16
-K: Gm
-"Gm" .d.d.d.d d2cB c2d2 G4 |      .d.d.d.d d2cB c2d2 g4 |
-"Eb" .d.d.d.d d2cB c2d2 G4 | "Bb" .d.d.d.d d2cB c2d2 !trill(! g4 |
-"Eb" f4 e4 "Bb" d4 c4 | "F" B4 A4 !trill)! "Gm" G4 g4|
-w: | * * * Hey!
-:::
+### Repeat the Intro solo, but don't take the repeat!
 
 ## Verse
 
@@ -114,7 +106,7 @@ l1: like a vain full of rain to the heeeeaaaaarts that should fight.
 M: 4/4
 L: 1/16
 K: Gm
-"Gm" |: .d.d.d.d d2cB c2d2 G4 |      .d.d.d.d d2cB c2d2 g4 |
+|: "Gm" .d.d.d.d d2cB c2d2 G4 |      .d.d.d.d d2cB c2d2 g4 |
 "Eb" .d.d.d.d d2cB c2d2 G4 | "Bb" .d.d.d.d d2cB c2d2 !trill(! g4 :|
 "Eb" f4 e4 "Bb" d4 c4 | "F" B4 A4 !trill)! "Gm" G4 F4 | "Eb" B8 A8 | _A4 G4 _G4 F2FF |
 "Bb" B2F2B2d2 B6 FF | B2F2B2d2 f6 ff | "F" f2_ff f2ee e2dd d4 | "Gm" g4 g4 g4 g4 |
