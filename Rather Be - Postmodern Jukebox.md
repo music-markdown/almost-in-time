@@ -4,8 +4,8 @@ youTubeId: XCX56h12dT4
 
 # Rather Be - Postmodern Jukebox
 
-CAPO 4 
-(original key: B)
+CAPO 5 
+(original key: B, but violin in C)
 
 
 ## Verse 1
