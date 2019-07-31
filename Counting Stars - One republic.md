@@ -171,22 +171,30 @@ c1: F
 l1: We'll be, we'll be counting stars
 
 ## Bridge
-N.C.
-Oh, take that money, watch it burn
-N.C.                                                 
-Sink in the river the lessons I learned
-N.C.
-Take that money, watch it burn
-N.C.                                                 
-Sink in the river the lessons I learned
-N.C.
-Take that money, watch it burn
-N.C.                                                 
-Sink in the river the lessons I learned
-N.C.
-Take that money, watch it burn
-N.C.                                                 
-Sink in the river the lessons I learned
+c1: N.C.
+l1: Oh, take that money, watch it burn
+
+c1: N.C.                                                 
+l1: Sink in the river the lessons I learned
+
+c1: N.C.
+l1: Take that money, watch it burn
+
+c1: N.C.                                                 
+l1: Sink in the river the lessons I learned
+
+c1: N.C.
+l1: Take that money, watch it burn
+
+c1: N.C.                                                 
+l1: Sink in the river the lessons I learned
+
+c1: N.C.
+l1: Take that money, watch it burn
+
+c1: N.C.                                                 
+l1: Sink in the river the lessons I learned
+
 c1: F               Dm
 l1: Everything that kills me makes feel alive
 
