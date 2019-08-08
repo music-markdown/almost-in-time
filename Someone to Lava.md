@@ -103,6 +103,8 @@ l1: As he sang his song of hope for the last time
 
 ## Chorus
 
+Ritardando
+
 c1: F
 l1:   I have a dream
 
@@ -122,6 +124,8 @@ c1:      F       G7         C
 l1: Will send me someone to lava
 
 ## Verse 3
+
+Explosion
 
 c1: C  C
 
@@ -174,6 +178,8 @@ l2: Will send me someone to lava
 
 ## Final Verse
 
+Explosion
+
 c1: C  C  C  C
 
 c1: C
@@ -203,12 +209,12 @@ c1:   C
 l3: I hope will come true
 
 c1:      G7
-l1: That you'll grow old with me
-l2: Oooh
+l2: That you'll grow old with me
+l1: Oooh
 
 c1:     C
-l2: And I'll grow old with you
-l1: Oooh
+l1: And I'll grow old with you
+l2: Oooh
 
 c1: F                              C
 l3: We thank the earth, sea, & the sky we thank too
