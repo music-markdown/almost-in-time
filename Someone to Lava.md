@@ -51,8 +51,8 @@ l1: That you're here with me
 c1:     C
 l1: and I'm here with you
 
-c1:   F                               C
-l1: I wish that the earth, sea, & the sky up above-a
+c1:   F                             C
+l1: I wish that the earth, sea, and sky up above-a
 
 c1:      F       G7         C
 l1: Will send me someone to lava
@@ -117,8 +117,8 @@ l1: That you're here with me
 c1:     C
 l1: And I'm here with you
 
-c1:   F                               C
-l1: I wish that the earth, sea, & the sky up above-a
+c1:   F                             C
+l1: I wish that the earth, sea, and sky up above-a
 
 c1:      F       G7         C
 l1: Will send me someone to lava
@@ -170,8 +170,8 @@ l2: That you're here with me
 c1:     C
 l2: And I'm here with you
 
-c1:   F                               C
-l2: I wish that the earth, sea, & the sky up above-a
+c1:   F                             C
+l2: I wish that the earth, sea, and sky up above-a
 
 c1:      F       G7         C
 l2: Will send me someone to lava
@@ -216,8 +216,8 @@ c1:     C
 l1: And I'll grow old with you
 l2: Oooh
 
-c1: F                              C
-l3: We thank the earth, sea, & the sky we thank too
+c1: F                                C
+l3: We thank the earth, sea, and the sky we thank too
 
 c1: F G7   C
 l3: I lava you
