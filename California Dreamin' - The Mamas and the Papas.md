@@ -2,7 +2,7 @@
 youTubeId: dN3GbF9Bx6E
 ---
 
-# California Dreamin - Mama's and the Papa's x1
+# California Dreamin - Mama's and the Papa's
 
 ## Verse 1
 c1:                    Am     G  F          G      Esus4  E
