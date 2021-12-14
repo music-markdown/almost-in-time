@@ -3,4 +3,5 @@
 
 # Test
 
-This is a test song.!
+c1: C         D
+l1: This is a test song.
